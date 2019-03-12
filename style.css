@@ -1,6 +1,7 @@
 #navigation {
   text-align: center;
-  font-family:
+  font-family: comic;
+  font-size: 2rem;
 }
 #name {
   text-align: center;
@@ -22,6 +23,7 @@ background: forestGreen;
   text-align: center;
   color: white;
   background: deepSkyBlue;
+  font-size: 80px;
 }
 #videoGameBackground
  {
@@ -30,6 +32,7 @@ background: forestGreen;
 .gamesParagraphs p {
   color: white;
   text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 
 #anxietyBackground
@@ -43,5 +46,42 @@ background: forestGreen;
 }
 .anxietyParagraphs p{
   text-align: center;
-  font-size: 20px;
+  font-size: 2rem;
+  font-family: 'Srisakdi', cursive
+}
+.middleFirstAnxietySection
+{
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+}
+.middleSecondAnxietySection
+{
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+}
+.middleThirdAnxietySection
+{
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+}
+#mentalHealthAwarenessTitle
+{
+  font-size: 5rem;
+  text-align: center;
+  background: pink;
+  color: white;
+}
+#anxietyDisordersTitle
+{
+  text-align: center;
+  font-size: 4rem;
+  color: slateBlue;
+  font-family: 'Sniglet', cursive;
+}
+.anxietyImage
+{
+  text-align: center;
 }
