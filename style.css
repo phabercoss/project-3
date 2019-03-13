@@ -20,7 +20,6 @@ text-align: center;
   text-align: center;
 }
 
-
 .resumeHeading {
   text-align: center;
   background: gold;
@@ -66,7 +65,7 @@ text-align: center;
 .anxietyParagraphs p{
   text-align: center;
   font-size: 2rem;
-  font-family: 'Srisakdi', cursive
+  font-family: 'Srisakdi', cursive, times;
 }
 .middleFirstAnxietySection
 {
@@ -98,7 +97,7 @@ text-align: center;
   text-align: center;
   font-size: 4rem;
   color: slateBlue;
-  font-family: 'Sniglet', cursive;
+  font-family: 'Sniglet', cursive, arial;
 }
 .anxietyImage
 {
