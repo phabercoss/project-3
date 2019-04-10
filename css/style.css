@@ -45,6 +45,7 @@ text-align: center;
   color: white;
   background: deepSkyBlue;
   font-size: 80px;
+  position: relative;
 }
 #videoGameBackground
  {
@@ -59,7 +60,7 @@ text-align: center;
 
 #anxietyBackground
  {
- background-image: url("media/anxietyBackground.jpg")
+ background-image: url("media/anxietyBackground.jpg");
 }
 .video {
   text-align: center;
