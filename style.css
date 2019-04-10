@@ -3,11 +3,13 @@
   font-family: comic;
   font-size: 2rem;
   background: lightblue;
+  margin-bottom: 100px;
 }
 #name {
   text-align: center;
   background: slateBlue;
   color: white;
+  position: fixed;
 }
 h3
 {
@@ -25,6 +27,7 @@ text-align: center;
   background: gold;
   font-family: 'Teko', sans-serif;
   font-size: 30px;
+  position: relative;
 }
 #indexBackground {
   background: lightSalmon;
@@ -51,6 +54,7 @@ text-align: center;
   color: white;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  padding-bottom: 30px;
 }
 
 #anxietyBackground
@@ -61,16 +65,18 @@ text-align: center;
   text-align: center;
   max-width: 100%;
   height: auto;
+  float: initial;
 }
 .anxietyParagraphs p{
   text-align: center;
   font-size: 2rem;
   font-family: 'Srisakdi', cursive, times;
+  float: right;
 }
 .middleFirstAnxietySection
 {
   text-align: center;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-family: monospace;
 }
 .middleSecondAnxietySection
@@ -78,6 +84,14 @@ text-align: center;
   text-align: center;
   font-size: 2rem;
   font-family: monospace;
+  float: none;
+}
+.middleOtherAnxietySection
+{
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+
 }
 .middleThirdAnxietySection
 {
@@ -102,4 +116,5 @@ text-align: center;
 .anxietyImage
 {
   text-align: center;
+  float: left;
 }
