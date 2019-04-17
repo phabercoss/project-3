@@ -7,8 +7,16 @@
   #name {
 
 }
-}
+#indexBackground {
 
+}
+.resumeHeading {
+
+}
+.indexMiddleSection {
+
+}
+}
 
 @media only screen and (min-width 1000px) {
   #navigation {
@@ -18,4 +26,11 @@
   #name {
 
   }
+  .gamesParagraphs {
+
+  }
+  #top10Title {
+    
+}
+
 }
