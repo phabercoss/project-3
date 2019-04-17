@@ -4,6 +4,7 @@
   font-size: 2rem;
   background: lightblue;
   margin-bottom: 100px;
+  width 100%;
 }
 #name {
   text-align: center;
@@ -21,16 +22,15 @@ text-align: center;
 .myImage {
   text-align: center;
 }
-
+#indexBackground {
+  background: lightsalmon;
+}
 .resumeHeading {
   text-align: center;
   background: gold;
   font-family: 'Teko', sans-serif;
   font-size: 30px;
   position: relative;
-}
-#indexBackground {
-  background: lightSalmon;
 }
 .indexMiddleSection p, ul, li {
   font-size: 30px;

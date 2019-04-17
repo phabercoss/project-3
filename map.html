@@ -1,26 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Map</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnwjl3dE6SwWeFsGIleZqfw91I0lLBr54&callback=initMap"
- type="text/javascript"></script>
- <script src="script.js"></script>
-<body id = "indexBackground">
-  <header>
-    <div class = "myImage">
-    <img src="media/phallynImage.jpg" alt="Phallyn Habercoss">
-    </div>
-    <nav id="navigation">
-      <p>
-        <a href="#jump" title="samepage">Resume</a> <a href="games.html">Games</a> <a href="health.html">Health</a>
-       </p>
-    </nav>
-  </header>
-
-  <footer id="name">
-  <p>Made by Phallyn Habercoss</p>
-  </footer>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="map.css">
+    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyCnwjl3dE6SwWeFsGIleZqfw91I0lLBr54&callback=initMap"
+    async defer></script>
+    <script type="text/javascript" src="script.js" async defer></script>
+  </head>
+  <body>
+    <div id="map"></div>
   </body>
-  </html>
+</html>
