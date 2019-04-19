@@ -1,15 +1,9 @@
-#wrapper {
-  width: 730px;
-  height: 530px;
-  background-color: gray;
-  margin:0 auto;
-  overflow: hidden;
-  border-radius: 2px;
-}
-
 #map {
-  width: 700px;
-  height: 500px;
-  background-color: #ccc;
-  margin: 15px auto;
-}
+        height: 80%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 80%;
+        margin: 0;
+        padding: 0;
+      }
