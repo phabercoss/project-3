@@ -1,4 +1,4 @@
-@media only screen and (max width 738px) {
+@media only screen and (min-width 738px) {
   #navigation {
     width: 80%;
     font-size: 40px;
@@ -16,6 +16,7 @@ width: 80%;
 h3 {
 float: left;
 background-color: pink;
+}
 }
 
 @media only screen and (min-width 600px) {
