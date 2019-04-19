@@ -4,7 +4,6 @@
   font-size: 2rem;
   background: lightblue;
   margin-bottom: 100px;
-  width 100%;
 }
 #name {
   text-align: center;
@@ -45,7 +44,6 @@ text-align: center;
   color: white;
   background: deepSkyBlue;
   font-size: 80px;
-  position: relative;
 }
 #videoGameBackground
  {
