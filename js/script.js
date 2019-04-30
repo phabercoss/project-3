@@ -4,7 +4,7 @@ var map = new google.maps.Map(document.getElementById('map'), {
       zoom: 18
   });
   var infowindow = new google.maps.InfoWindow({
-    content: contentString
+    content: contentString,
   });
 
   var marker = new google.maps.Marker({
